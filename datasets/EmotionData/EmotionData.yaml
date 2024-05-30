@@ -1,0 +1,14 @@
+path: L:/PythonCode/PySideCode/YOLOv8v5Code/EmotionDetection/datasets/EmotionData
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 8
+names:
+- Anger
+- Contempt
+- Disgust
+- Fear
+- Happy
+- Neutral
+- Sad
+- Surprise
